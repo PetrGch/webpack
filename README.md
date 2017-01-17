@@ -23,3 +23,5 @@ Why webpack?
 ***
 
 ### Simple build - simple configuration
+
+*install wepback globally* `[sudo] npm i -g webpack`
