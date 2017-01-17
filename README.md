@@ -2,8 +2,23 @@
 
 ***
 
-#### Lessons from screencast of Ilya Kantor
-##### [learn.javascript.ru](https://learn.javascript.ru/screencast/webpack "learn.javascript.ru")
+### Lessons from Kantor's screencast.
+#### [learn.javascript.ru](https://learn.javascript.ru/screencast/webpack "learn.javascript.ru")
 
+***
 
-##### Introduction 
+#### Introduction
+
+Why webpack?
+
+* Common build system
+* php? java? Gulp/grant?... Integration with all languages and build systems
+* Dynamic loading? Yep!
+* AMD, UMD? Old and ugly modules? Yep!
+* Preprocessors ❤
+* Live Reload? Yep, advanced.
+* ...
+
+***
+
+### Simple build - simple configuration
